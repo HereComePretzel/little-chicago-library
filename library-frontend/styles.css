@@ -19,3 +19,32 @@
   font-weight: bold;
   letter-spacing: 0;
 }
+
+#modal-author > a {
+  border-bottom: 2px solid #e90c8c;
+  color: #000;
+  text-decoration: none;
+  line-height: 1.3;
+  font-size: 14px;
+  font-weight: bold;
+  /* line-height: 19px; */
+  letter-spacing: 0;
+}
+
+#modal-title {
+  font-size: 20px;
+  line-height: 1.3;
+  font-weight: bold;
+  letter-spacing: 0;
+}
+
+.modal-footer {
+  padding: 2rem;
+}
+
+.modal-body p {
+  font-weight: bold;
+  line-height: 24px;
+  font-size: 14px;
+  letter-spacing: 0;
+}
