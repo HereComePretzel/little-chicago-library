@@ -2833,7 +2833,7 @@ fieldset:disabled .btn {
   /* color: #000;
   background-color: #FFD23F;
   border-color: #000; */
-
+  font-weight: 500;
   background-image: linear-gradient(to right, #e5dfe8, #e5dfe8, #FFC821);
   background-size: cover;
   background-repeat: no-repeat;
@@ -2849,6 +2849,7 @@ fieldset:disabled .btn {
   background-color: #FFD23F;
   border-color: #000; */
   /* box-shadow: 0 0 0 0.25rem rgba(49, 132, 253, 0.5); */
+  font-weight: 500;
   background-image: linear-gradient(to right, #e5dfe8, #e5dfe8, #FFC821);
   background-size: cover;
   background-repeat: no-repeat;
@@ -2864,6 +2865,7 @@ fieldset:disabled .btn {
   /* color: #000;
   background-color:  #FFD23F;
   border-color: #000; */
+  font-weight: 500;
   background-image: linear-gradient(to right, #e5dfe8, #e5dfe8, #FFC821);
   background-size: cover;
   background-repeat: no-repeat;
@@ -2877,6 +2879,7 @@ fieldset:disabled .btn {
 .btn-check:active + .btn-primary:focus, .btn-primary:active:focus, .btn-primary.active:focus,
 .show > .btn-primary.dropdown-toggle:focus {
   /* box-shadow: 0 0 0 0.25rem rgba(49, 132, 253, 0.5); */
+  font-weight: 500;
   background-image: linear-gradient(to right, #e5dfe8, #e5dfe8, #FFC821);
   background-size: cover;
   background-repeat: no-repeat;
@@ -4243,7 +4246,7 @@ fieldset:disabled .btn {
 }
 
 .navbar-light .navbar-toggler-icon {
-  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%280, 0, 0, 0.55%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%280, 0, 0, 1%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
 }
 
 .navbar-light .navbar-text {
@@ -5176,7 +5179,7 @@ fieldset:disabled .btn {
   background-clip: content-box;
   border: 0;
   border-radius: 0.25rem;
-  opacity: 0.5;
+  /* opacity: 0.5; */
 }
 
 .btn-close:hover {
